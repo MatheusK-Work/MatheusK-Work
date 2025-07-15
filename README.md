@@ -5,7 +5,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-   Acadêmico de Análise e Desenvolvimento de Sistemas 4º Período <br>
+   Acadêmico de Análise e Desenvolvimento de Sistemas 5º Período <br>
    Apaixonado por tecnologia, inovação e desenvolvimento de soluções eficientes <br>
    Foco em projetos web, banco de dados, e boas práticas de programação <br>
    Aberto a colaborações e novas experiências no mundo da tecnologia
