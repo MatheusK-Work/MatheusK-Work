@@ -70,6 +70,4 @@
 - 🎧 Música sempre rola enquanto programo — sertanejo, country, eletrônica, rock ...
 - 🧠 Acredito que tecnologia muda vidas 
 
----
 
- Se curtir meus projetos, me chamar nas redes sociais! Vai ser interessante trocar ideia para evoluímos 
